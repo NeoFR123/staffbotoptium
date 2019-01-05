@@ -1,0 +1,10 @@
+{
+  "token": "NTMwNzY4ODAzMDY4NjQxMjkw.DxEMkg.MKWh65couq1NC19s-w7Ss4uNMsw",
+  "prefix": ";",
+  "logsChannel": "logs",
+
+  "activity": {
+    "streaming": false,
+    "game": "Rien"
+  }
+}
